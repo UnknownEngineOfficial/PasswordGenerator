@@ -9,10 +9,10 @@ Currently a password generator, but we are working on turning it into a password
 
 
 <head>
-  <title>
-    Password Generator
-  </title>
   <h3>
-    by Unknown Engine
+    Password Generator
   </h3>
+  <h6>
+    by Unknown Engine
+  </h6>
 </head>
