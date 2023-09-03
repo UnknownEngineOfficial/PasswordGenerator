@@ -28,3 +28,9 @@ Strong emphasis, aka bold, with **asterisks** or __underscores__.
 Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
+
+## Requirements
+1. Python
+   https://www.python.org/downloads/release/
+2. Customtkinter
+   '''pip install customtkinter'''
