@@ -6,3 +6,13 @@ Currently a password generator, but we are working on turning it into a password
 ⋅⋅- [https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe]
 - Customtkinter Library
 ⋅⋅- `pip install customtkinter`
+
+
+<head>
+  <title>
+    Password Generator
+  </title>
+  <h3>
+    by Unknown Engine
+  </h3>
+</head>
