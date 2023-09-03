@@ -4,6 +4,6 @@ Currently a password generator, but we are working on turning it into a password
 Requirements:
   python 3.9
     https://www.python.org/downloads/release/
-  customtkinter library
+  ; customtkinter library:
     pip install customtkinter
   
